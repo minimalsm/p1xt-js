@@ -7,7 +7,7 @@ A guide primarily focused on Frontend development, but including just enough of 
 - [ ] Book: [Eloquent JavaScript](https://eloquentjavascript.net/)
 -- On Chapter 9
 - [ ] Course - [CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x) on edX
--- Completed Week 0
+-- Completed Week 1
 - [ ] Project:  [CodinGame](https://www.codingame.com/training)  finish all problems in the ‘Classic Puzzle - Easy’ section.
 -- Working my way through them
 - [ ] Book: [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/tree/1st-ed/up%20&%20going/README.md#you-dont-know-js-up--going)
